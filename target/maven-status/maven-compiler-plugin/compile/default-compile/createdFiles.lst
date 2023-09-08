@@ -1,0 +1,9 @@
+me\lee1387\staffchat\objects\TextFile.class
+me\lee1387\staffchat\enums\VelocityConfig.class
+me\lee1387\staffchat\objects\PlayerCache.class
+me\lee1387\staffchat\utils\ChatUtil.class
+me\lee1387\staffchat\Commands\StaffChatCommand.class
+me\lee1387\staffchat\objects\Placeholder.class
+me\lee1387\staffchat\Listeners\ChatListener.class
+me\lee1387\staffchat\StaffChat.class
+me\lee1387\staffchat\Listeners\JoinListener.class
